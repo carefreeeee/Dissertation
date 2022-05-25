@@ -1,0 +1,136 @@
+C:\Users\User\source\repos\Web\Web\bin\Debug\netcoreapp2.2\Web.deps.json
+C:\Users\User\source\repos\Web\Web\bin\Debug\netcoreapp2.2\Web.runtimeconfig.json
+C:\Users\User\source\repos\Web\Web\bin\Debug\netcoreapp2.2\Web.runtimeconfig.dev.json
+C:\Users\User\source\repos\Web\Web\bin\Debug\netcoreapp2.2\Web.dll
+C:\Users\User\source\repos\Web\Web\bin\Debug\netcoreapp2.2\Web.pdb
+C:\Users\User\source\repos\Web\Web\bin\Debug\netcoreapp2.2\Web.Views.dll
+C:\Users\User\source\repos\Web\Web\bin\Debug\netcoreapp2.2\Web.Views.pdb
+C:\Users\User\source\repos\Web\Web\obj\Debug\netcoreapp2.2\Web.RazorAssemblyInfo.cache
+C:\Users\User\source\repos\Web\Web\obj\Debug\netcoreapp2.2\Web.RazorAssemblyInfo.cs
+C:\Users\User\source\repos\Web\Web\obj\Debug\netcoreapp2.2\Web.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Web\Web\obj\Debug\netcoreapp2.2\Web.AssemblyInfo.cs
+C:\Users\User\source\repos\Web\Web\obj\Debug\netcoreapp2.2\Web.TagHelpers.input.cache
+C:\Users\User\source\repos\Web\Web\obj\Debug\netcoreapp2.2\Web.TagHelpers.output.cache
+C:\Users\User\source\repos\Web\Web\obj\Debug\netcoreapp2.2\Web.RazorCoreGenerate.cache
+C:\Users\User\source\repos\Web\Web\obj\Debug\netcoreapp2.2\Web.RazorTargetAssemblyInfo.cache
+C:\Users\User\source\repos\Web\Web\obj\Debug\netcoreapp2.2\Web.RazorTargetAssemblyInfo.cs
+C:\Users\User\source\repos\Web\Web\obj\Debug\netcoreapp2.2\Web.Views.pdb
+C:\Users\User\source\repos\Web\Web\obj\Debug\netcoreapp2.2\Web.dll
+C:\Users\User\source\repos\Web\Web\obj\Debug\netcoreapp2.2\Web.pdb
+C:\Users\User\source\repos\Web\Web\obj\Debug\netcoreapp2.2\Web.csproj.CopyComplete
+C:\Users\User\source\repos\Web\Web\obj\Debug\netcoreapp2.2\Web.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Web\Web\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\User\source\repos\Web\Web\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\User\source\repos\Web\Web\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\User\source\repos\Web\Web\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\User\source\repos\Web\Web\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index1.cshtml.g.cs
+C:\Users\User\source\repos\Web\Web\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\User\source\repos\Web\Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\User\source\repos\Web\Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\User\source\repos\Web\Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\User\source\repos\Web\Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\User\source\repos\Web\Web\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\User\source\repos\Web\Web\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Влад\Desktop\Влад\Progect\Web\Web\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Влад\Desktop\Влад\Progect\Web\Web\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Влад\Desktop\Влад\Progect\Web\Web\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Влад\Desktop\Влад\Progect\Web\Web\bin\Debug\netcoreapp2.2\Web.deps.json
+C:\Users\Влад\Desktop\Влад\Progect\Web\Web\bin\Debug\netcoreapp2.2\Web.runtimeconfig.json
+C:\Users\Влад\Desktop\Влад\Progect\Web\Web\bin\Debug\netcoreapp2.2\Web.runtimeconfig.dev.json
+C:\Users\Влад\Desktop\Влад\Progect\Web\Web\bin\Debug\netcoreapp2.2\Web.dll
+C:\Users\Влад\Desktop\Влад\Progect\Web\Web\bin\Debug\netcoreapp2.2\Web.pdb
+C:\Users\Влад\Desktop\Влад\Progect\Web\Web\bin\Debug\netcoreapp2.2\Web.Views.dll
+C:\Users\Влад\Desktop\Влад\Progect\Web\Web\bin\Debug\netcoreapp2.2\Web.Views.pdb
+C:\Users\Влад\Desktop\Влад\Progect\Web\Web\obj\Debug\netcoreapp2.2\Web.csprojAssemblyReference.cache
+C:\Users\Влад\Desktop\Влад\Progect\Web\Web\obj\Debug\netcoreapp2.2\Web.RazorAssemblyInfo.cache
+C:\Users\Влад\Desktop\Влад\Progect\Web\Web\obj\Debug\netcoreapp2.2\Web.RazorAssemblyInfo.cs
+C:\Users\Влад\Desktop\Влад\Progect\Web\Web\obj\Debug\netcoreapp2.2\Web.AssemblyInfoInputs.cache
+C:\Users\Влад\Desktop\Влад\Progect\Web\Web\obj\Debug\netcoreapp2.2\Web.AssemblyInfo.cs
+C:\Users\Влад\Desktop\Влад\Progect\Web\Web\obj\Debug\netcoreapp2.2\Web.TagHelpers.input.cache
+C:\Users\Влад\Desktop\Влад\Progect\Web\Web\obj\Debug\netcoreapp2.2\Web.TagHelpers.output.cache
+C:\Users\Влад\Desktop\Влад\Progect\Web\Web\obj\Debug\netcoreapp2.2\Web.RazorCoreGenerate.cache
+C:\Users\Влад\Desktop\Влад\Progect\Web\Web\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Влад\Desktop\Влад\Progect\Web\Web\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index1.cshtml.g.cs
+C:\Users\Влад\Desktop\Влад\Progect\Web\Web\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Влад\Desktop\Влад\Progect\Web\Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Влад\Desktop\Влад\Progect\Web\Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Влад\Desktop\Влад\Progect\Web\Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Влад\Desktop\Влад\Progect\Web\Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Влад\Desktop\Влад\Progect\Web\Web\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Влад\Desktop\Влад\Progect\Web\Web\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Влад\Desktop\Влад\Progect\Web\Web\obj\Debug\netcoreapp2.2\Web.RazorTargetAssemblyInfo.cache
+C:\Users\Влад\Desktop\Влад\Progect\Web\Web\obj\Debug\netcoreapp2.2\Web.RazorTargetAssemblyInfo.cs
+C:\Users\Влад\Desktop\Влад\Progect\Web\Web\obj\Debug\netcoreapp2.2\Web.Views.pdb
+C:\Users\Влад\Desktop\Влад\Progect\Web\Web\obj\Debug\netcoreapp2.2\Web.dll
+C:\Users\Влад\Desktop\Влад\Progect\Web\Web\obj\Debug\netcoreapp2.2\Web.pdb
+C:\Users\Влад\Desktop\Влад\Progect\Web\Web\obj\Debug\netcoreapp2.2\Web.csproj.CopyComplete
+D:\ЮЛЯ\Ник\с армейской флешки\мое\Магистерская\Webl\Web\Web\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\ЮЛЯ\Ник\с армейской флешки\мое\Магистерская\Webl\Web\Web\bin\Debug\netcoreapp2.2\appsettings.json
+D:\ЮЛЯ\Ник\с армейской флешки\мое\Магистерская\Webl\Web\Web\bin\Debug\netcoreapp2.2\Web.deps.json
+D:\ЮЛЯ\Ник\с армейской флешки\мое\Магистерская\Webl\Web\Web\bin\Debug\netcoreapp2.2\Web.runtimeconfig.json
+D:\ЮЛЯ\Ник\с армейской флешки\мое\Магистерская\Webl\Web\Web\bin\Debug\netcoreapp2.2\Web.runtimeconfig.dev.json
+D:\ЮЛЯ\Ник\с армейской флешки\мое\Магистерская\Webl\Web\Web\bin\Debug\netcoreapp2.2\Web.dll
+D:\ЮЛЯ\Ник\с армейской флешки\мое\Магистерская\Webl\Web\Web\bin\Debug\netcoreapp2.2\Web.pdb
+D:\ЮЛЯ\Ник\с армейской флешки\мое\Магистерская\Webl\Web\Web\bin\Debug\netcoreapp2.2\Web.Views.dll
+D:\ЮЛЯ\Ник\с армейской флешки\мое\Магистерская\Webl\Web\Web\bin\Debug\netcoreapp2.2\Web.Views.pdb
+D:\ЮЛЯ\Ник\с армейской флешки\мое\Магистерская\Webl\Web\Web\obj\Debug\netcoreapp2.2\Web.csproj.AssemblyReference.cache
+D:\ЮЛЯ\Ник\с армейской флешки\мое\Магистерская\Webl\Web\Web\obj\Debug\netcoreapp2.2\Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\ЮЛЯ\Ник\с армейской флешки\мое\Магистерская\Webl\Web\Web\obj\Debug\netcoreapp2.2\Web.AssemblyInfoInputs.cache
+D:\ЮЛЯ\Ник\с армейской флешки\мое\Магистерская\Webl\Web\Web\obj\Debug\netcoreapp2.2\Web.AssemblyInfo.cs
+D:\ЮЛЯ\Ник\с армейской флешки\мое\Магистерская\Webl\Web\Web\obj\Debug\netcoreapp2.2\Web.csproj.CoreCompileInputs.cache
+D:\ЮЛЯ\Ник\с армейской флешки\мое\Магистерская\Webl\Web\Web\obj\Debug\netcoreapp2.2\Web.RazorAssemblyInfo.cache
+D:\ЮЛЯ\Ник\с армейской флешки\мое\Магистерская\Webl\Web\Web\obj\Debug\netcoreapp2.2\Web.RazorAssemblyInfo.cs
+D:\ЮЛЯ\Ник\с армейской флешки\мое\Магистерская\Webl\Web\Web\obj\Debug\netcoreapp2.2\Web.TagHelpers.input.cache
+D:\ЮЛЯ\Ник\с армейской флешки\мое\Магистерская\Webl\Web\Web\obj\Debug\netcoreapp2.2\Web.TagHelpers.output.cache
+D:\ЮЛЯ\Ник\с армейской флешки\мое\Магистерская\Webl\Web\Web\obj\Debug\netcoreapp2.2\Web.RazorCoreGenerate.cache
+D:\ЮЛЯ\Ник\с армейской флешки\мое\Магистерская\Webl\Web\Web\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+D:\ЮЛЯ\Ник\с армейской флешки\мое\Магистерская\Webl\Web\Web\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index1.cshtml.g.cs
+D:\ЮЛЯ\Ник\с армейской флешки\мое\Магистерская\Webl\Web\Web\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\ЮЛЯ\Ник\с армейской флешки\мое\Магистерская\Webl\Web\Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+D:\ЮЛЯ\Ник\с армейской флешки\мое\Магистерская\Webl\Web\Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+D:\ЮЛЯ\Ник\с армейской флешки\мое\Магистерская\Webl\Web\Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\ЮЛЯ\Ник\с армейской флешки\мое\Магистерская\Webl\Web\Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\ЮЛЯ\Ник\с армейской флешки\мое\Магистерская\Webl\Web\Web\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+D:\ЮЛЯ\Ник\с армейской флешки\мое\Магистерская\Webl\Web\Web\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+D:\ЮЛЯ\Ник\с армейской флешки\мое\Магистерская\Webl\Web\Web\obj\Debug\netcoreapp2.2\Web.RazorTargetAssemblyInfo.cache
+D:\ЮЛЯ\Ник\с армейской флешки\мое\Магистерская\Webl\Web\Web\obj\Debug\netcoreapp2.2\Web.RazorTargetAssemblyInfo.cs
+D:\ЮЛЯ\Ник\с армейской флешки\мое\Магистерская\Webl\Web\Web\obj\Debug\netcoreapp2.2\Web.Views.pdb
+D:\ЮЛЯ\Ник\с армейской флешки\мое\Магистерская\Webl\Web\Web\obj\Debug\netcoreapp2.2\Web.dll
+D:\ЮЛЯ\Ник\с армейской флешки\мое\Магистерская\Webl\Web\Web\obj\Debug\netcoreapp2.2\Web.pdb
+D:\ЮЛЯ\Ник\с армейской флешки\мое\Магистерская\Webl\Web\Web\obj\Debug\netcoreapp2.2\Web.genruntimeconfig.cache
+D:\ЮЛЯ\Ник\с армейской флешки\мое\Магистерская\Webl\Web\Web\obj\Debug\netcoreapp2.2\Web.csproj.CopyComplete
+C:\Users\НЮ\source\repos\Webl\Web\Web\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\НЮ\source\repos\Webl\Web\Web\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\НЮ\source\repos\Webl\Web\Web\bin\Debug\netcoreapp2.2\Web.deps.json
+C:\Users\НЮ\source\repos\Webl\Web\Web\bin\Debug\netcoreapp2.2\Web.runtimeconfig.json
+C:\Users\НЮ\source\repos\Webl\Web\Web\bin\Debug\netcoreapp2.2\Web.runtimeconfig.dev.json
+C:\Users\НЮ\source\repos\Webl\Web\Web\bin\Debug\netcoreapp2.2\Web.dll
+C:\Users\НЮ\source\repos\Webl\Web\Web\bin\Debug\netcoreapp2.2\Web.pdb
+C:\Users\НЮ\source\repos\Webl\Web\Web\bin\Debug\netcoreapp2.2\Web.Views.dll
+C:\Users\НЮ\source\repos\Webl\Web\Web\bin\Debug\netcoreapp2.2\Web.Views.pdb
+C:\Users\НЮ\source\repos\Webl\Web\Web\obj\Debug\netcoreapp2.2\Web.csproj.AssemblyReference.cache
+C:\Users\НЮ\source\repos\Webl\Web\Web\obj\Debug\netcoreapp2.2\Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НЮ\source\repos\Webl\Web\Web\obj\Debug\netcoreapp2.2\Web.AssemblyInfoInputs.cache
+C:\Users\НЮ\source\repos\Webl\Web\Web\obj\Debug\netcoreapp2.2\Web.AssemblyInfo.cs
+C:\Users\НЮ\source\repos\Webl\Web\Web\obj\Debug\netcoreapp2.2\Web.csproj.CoreCompileInputs.cache
+C:\Users\НЮ\source\repos\Webl\Web\Web\obj\Debug\netcoreapp2.2\Web.RazorAssemblyInfo.cache
+C:\Users\НЮ\source\repos\Webl\Web\Web\obj\Debug\netcoreapp2.2\Web.RazorAssemblyInfo.cs
+C:\Users\НЮ\source\repos\Webl\Web\Web\obj\Debug\netcoreapp2.2\Web.TagHelpers.input.cache
+C:\Users\НЮ\source\repos\Webl\Web\Web\obj\Debug\netcoreapp2.2\Web.TagHelpers.output.cache
+C:\Users\НЮ\source\repos\Webl\Web\Web\obj\Debug\netcoreapp2.2\Web.RazorCoreGenerate.cache
+C:\Users\НЮ\source\repos\Webl\Web\Web\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\НЮ\source\repos\Webl\Web\Web\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index1.cshtml.g.cs
+C:\Users\НЮ\source\repos\Webl\Web\Web\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\НЮ\source\repos\Webl\Web\Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\НЮ\source\repos\Webl\Web\Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\НЮ\source\repos\Webl\Web\Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\НЮ\source\repos\Webl\Web\Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\НЮ\source\repos\Webl\Web\Web\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\НЮ\source\repos\Webl\Web\Web\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\НЮ\source\repos\Webl\Web\Web\obj\Debug\netcoreapp2.2\Web.RazorTargetAssemblyInfo.cache
+C:\Users\НЮ\source\repos\Webl\Web\Web\obj\Debug\netcoreapp2.2\Web.RazorTargetAssemblyInfo.cs
+C:\Users\НЮ\source\repos\Webl\Web\Web\obj\Debug\netcoreapp2.2\Web.Views.pdb
+C:\Users\НЮ\source\repos\Webl\Web\Web\obj\Debug\netcoreapp2.2\Web.dll
+C:\Users\НЮ\source\repos\Webl\Web\Web\obj\Debug\netcoreapp2.2\Web.pdb
+C:\Users\НЮ\source\repos\Webl\Web\Web\obj\Debug\netcoreapp2.2\Web.genruntimeconfig.cache
+C:\Users\НЮ\source\repos\Webl\Web\Web\obj\Debug\netcoreapp2.2\Web.csproj.CopyComplete
